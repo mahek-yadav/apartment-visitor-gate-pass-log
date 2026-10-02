@@ -149,6 +149,3 @@ For a gate-pass system, ACID is useful because an entry/exit record should be re
 
 JSONB and arrays are used only where they fit the data. Core entities and relationships remain normalised relational tables with primary keys, foreign keys and constraints.
 
-## ER diagram notation
-
-The ER diagram uses written `1 : many` relationship notation instead of crow's-foot notation. The labels show the cardinality for each relationship.
